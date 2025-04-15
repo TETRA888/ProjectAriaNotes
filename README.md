@@ -12,6 +12,7 @@ These are my notes reading the project aria documentation
 $ vrs check <file.vrs>
 $ vrs checksum <file.vrs>
 ```
+
 # Data extraction
 ```
 $ vrs extract-images <file.vrs> --to <image_folder>
@@ -19,3 +20,7 @@ $ vrs extract-audio <file.vrs> --to <audio_folder>
 vrs extract-images <file.vrs> --raw-images --to <image_folder>
 vrs extract-all <file.vrs> --to <folder>
 ```
+
+# For time sync across multiple devices
+- Can use TISync
+
