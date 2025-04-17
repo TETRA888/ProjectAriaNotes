@@ -24,3 +24,18 @@ vrs extract-all <file.vrs> --to <folder>
 # For time sync across multiple devices
 - Can use TISync
 
+# Vrs data viewing
+- Install the following tool
+```
+# Pixi https://prefix.dev/
+# Local install
+pixi add vrs
+# Global install
+# pixi global install vrs
+```
+
+Once installed, use the following command to view vrs file:
+```
+vrsplayer sample_file_name_.vrs
+```
+
