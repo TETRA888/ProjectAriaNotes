@@ -6,7 +6,7 @@ These are my notes reading the project aria documentation
 - It is also not feasible or practical to record all of the sensors at max resolution and framerate
 - Decide on what recording profile that you want to use before you start recording
 
-# Vrs and data recording
+# Vrs (Video Relay Service) and data recording
 - Utilize MPS rather than raw IMU data
 ```
 $ vrs check <file.vrs>
@@ -65,8 +65,11 @@ vrsplayer sample_file_name_.vrs
 - MPS offers a json file that contains the coordinates for wrist and palm locations
 
 # 2D Image coordinate system conventions
+![image](https://github.com/user-attachments/assets/b3629eb8-cef9-4196-bed3-3bc237f0bd3b)
 
-https://facebookresearch.github.io/projectaria_tools/docs/data_formats/coordinate_convention/2d_image_coordinate_system_convention
+# 3D Image coordinate frame
+![image](https://github.com/user-attachments/assets/05374675-b9d2-487e-94a7-6c08997fc9ab)
+
 
 
 
