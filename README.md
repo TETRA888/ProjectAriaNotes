@@ -66,6 +66,9 @@ vrsplayer sample_file_name_.vrs
 
 # 2D Image coordinate system conventions
 
+https://facebookresearch.github.io/projectaria_tools/docs/data_formats/coordinate_convention/2d_image_coordinate_system_convention
+
+
 
 
 
