@@ -48,7 +48,7 @@ vrsplayer sample_file_name_.vrs
 
 - Summay JSON also contains the status and information regarding the MPS data
 
-# Requesting SLAM (Simulatenous Localazation And Mapping) data will yield the following:
+# Requesting SLAM (Simulatenous localization And Mapping) data will yield the following:
 6DoF Trajectory data
 ![image](https://github.com/user-attachments/assets/0866b4a1-709a-415e-a472-23d3f8d2bb74)
 - Can pull x,y,z, roll, yaw, pitch
