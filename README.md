@@ -46,6 +46,26 @@ vrsplayer sample_file_name_.vrs
 - Trajectory and point cloud
 - ![image](https://github.com/user-attachments/assets/14d8ee33-03ca-4c11-b66d-8c6d129a6f9c)
 
+- Summay JSON also contains the status and information regarding the MPS data
+
+# Requesting SLAM (Simulatenous Localazation And Mapping) data will yield the following:
+6DoF Trajectory data
+![image](https://github.com/user-attachments/assets/0866b4a1-709a-415e-a472-23d3f8d2bb74)
+- Can pull x,y,z, roll, yaw, pitch
+- Can pull Semi-Dense Point clouds
+- Sensor calibration data
+
+# Multi Slam
+- Can combine multiple recordings to see side by side 3d global trajectories
+
+# Eye Gaze
+- general_eye_gaze.csv contains all of the data points that can be used to determine where the user is looking
+
+# Hand Tracking
+- MPS offers a json file that contains the coordinates for wrist and palm locations
+
+# 2D Image coordinate system conventions
+
 
 
 
